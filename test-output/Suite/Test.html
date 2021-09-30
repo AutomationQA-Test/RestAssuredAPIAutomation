@@ -1,0 +1,219 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>28/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Wed Sep 29 16:42:37 IST 2021</td>
+</tr>
+<tr><td>Total time:</td><td>22 seconds (22388 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.testcases.TC001_Get_All_Users.checkContentCoding()'><b>checkContentCoding</b><br>Test class: com.testcases.TC001_Get_All_Users</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC001_Get_All_Users@1cd072a9</td></tr>
+<tr>
+<td title='com.testcases.TC002_Get_Single_User.checkContentCoding()'><b>checkContentCoding</b><br>Test class: com.testcases.TC002_Get_Single_User</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC002_Get_Single_User@7c75222b</td></tr>
+<tr>
+<td title='com.testcases.TC004_Update_User.checkContentCoding()'><b>checkContentCoding</b><br>Test class: com.testcases.TC004_Update_User</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC004_Update_User@27f674d</td></tr>
+<tr>
+<td title='com.testcases.TC001_Get_All_Users.checkContentType()'><b>checkContentType</b><br>Test class: com.testcases.TC001_Get_All_Users</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC001_Get_All_Users@1cd072a9</td></tr>
+<tr>
+<td title='com.testcases.TC002_Get_Single_User.checkContentType()'><b>checkContentType</b><br>Test class: com.testcases.TC002_Get_Single_User</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC002_Get_Single_User@7c75222b</td></tr>
+<tr>
+<td title='com.testcases.TC003_POST_Create_New_User.checkContentType()'><b>checkContentType</b><br>Test class: com.testcases.TC003_POST_Create_New_User</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC003_POST_Create_New_User@4c203ea1</td></tr>
+<tr>
+<td title='com.testcases.TC004_Update_User.checkContentType()'><b>checkContentType</b><br>Test class: com.testcases.TC004_Update_User</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC004_Update_User@27f674d</td></tr>
+<tr>
+<td title='com.testcases.TC001_Get_All_Users.checkCookies()'><b>checkCookies</b><br>Test class: com.testcases.TC001_Get_All_Users</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC001_Get_All_Users@1cd072a9</td></tr>
+<tr>
+<td title='com.testcases.TC001_Get_All_Users.checkResponseBody()'><b>checkResponseBody</b><br>Test class: com.testcases.TC001_Get_All_Users</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC001_Get_All_Users@1cd072a9</td></tr>
+<tr>
+<td title='com.testcases.TC002_Get_Single_User.checkResponseBody()'><b>checkResponseBody</b><br>Test class: com.testcases.TC002_Get_Single_User</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC002_Get_Single_User@7c75222b</td></tr>
+<tr>
+<td title='com.testcases.TC003_POST_Create_New_User.checkResponseBody()'><b>checkResponseBody</b><br>Test class: com.testcases.TC003_POST_Create_New_User</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC003_POST_Create_New_User@4c203ea1</td></tr>
+<tr>
+<td title='com.testcases.TC004_Update_User.checkResponseBody()'><b>checkResponseBody</b><br>Test class: com.testcases.TC004_Update_User</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC004_Update_User@27f674d</td></tr>
+<tr>
+<td title='com.testcases.TC001_Get_All_Users.checkResponseTime()'><b>checkResponseTime</b><br>Test class: com.testcases.TC001_Get_All_Users</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC001_Get_All_Users@1cd072a9</td></tr>
+<tr>
+<td title='com.testcases.TC001_Get_All_Users.checkServerType()'><b>checkServerType</b><br>Test class: com.testcases.TC001_Get_All_Users</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC001_Get_All_Users@1cd072a9</td></tr>
+<tr>
+<td title='com.testcases.TC002_Get_Single_User.checkServerType()'><b>checkServerType</b><br>Test class: com.testcases.TC002_Get_Single_User</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC002_Get_Single_User@7c75222b</td></tr>
+<tr>
+<td title='com.testcases.TC003_POST_Create_New_User.checkServerType()'><b>checkServerType</b><br>Test class: com.testcases.TC003_POST_Create_New_User</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC003_POST_Create_New_User@4c203ea1</td></tr>
+<tr>
+<td title='com.testcases.TC004_Update_User.checkServerType()'><b>checkServerType</b><br>Test class: com.testcases.TC004_Update_User</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC004_Update_User@27f674d</td></tr>
+<tr>
+<td title='com.testcases.TC005_Delete_Created_User.checkServerType()'><b>checkServerType</b><br>Test class: com.testcases.TC005_Delete_Created_User</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC005_Delete_Created_User@1d251891</td></tr>
+<tr>
+<td title='com.testcases.TC001_Get_All_Users.checkStatusCode()'><b>checkStatusCode</b><br>Test class: com.testcases.TC001_Get_All_Users</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC001_Get_All_Users@1cd072a9</td></tr>
+<tr>
+<td title='com.testcases.TC002_Get_Single_User.checkStatusCode()'><b>checkStatusCode</b><br>Test class: com.testcases.TC002_Get_Single_User</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC002_Get_Single_User@7c75222b</td></tr>
+<tr>
+<td title='com.testcases.TC003_POST_Create_New_User.checkStatusCode()'><b>checkStatusCode</b><br>Test class: com.testcases.TC003_POST_Create_New_User</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC003_POST_Create_New_User@4c203ea1</td></tr>
+<tr>
+<td title='com.testcases.TC004_Update_User.checkStatusCode()'><b>checkStatusCode</b><br>Test class: com.testcases.TC004_Update_User</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC004_Update_User@27f674d</td></tr>
+<tr>
+<td title='com.testcases.TC005_Delete_Created_User.checkStatusCode()'><b>checkStatusCode</b><br>Test class: com.testcases.TC005_Delete_Created_User</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC005_Delete_Created_User@1d251891</td></tr>
+<tr>
+<td title='com.testcases.TC001_Get_All_Users.checkStatusLine()'><b>checkStatusLine</b><br>Test class: com.testcases.TC001_Get_All_Users</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC001_Get_All_Users@1cd072a9</td></tr>
+<tr>
+<td title='com.testcases.TC002_Get_Single_User.checkStatusLine()'><b>checkStatusLine</b><br>Test class: com.testcases.TC002_Get_Single_User</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC002_Get_Single_User@7c75222b</td></tr>
+<tr>
+<td title='com.testcases.TC003_POST_Create_New_User.checkStatusLine()'><b>checkStatusLine</b><br>Test class: com.testcases.TC003_POST_Create_New_User</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC003_POST_Create_New_User@4c203ea1</td></tr>
+<tr>
+<td title='com.testcases.TC004_Update_User.checkStatusLine()'><b>checkStatusLine</b><br>Test class: com.testcases.TC004_Update_User</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC004_Update_User@27f674d</td></tr>
+<tr>
+<td title='com.testcases.TC005_Delete_Created_User.checkStatusLine()'><b>checkStatusLine</b><br>Test class: com.testcases.TC005_Delete_Created_User</td>
+<td></td>
+<td>0</td>
+<td>com.testcases.TC005_Delete_Created_User@1d251891</td></tr>
+</table><p>
+</body>
+</html>

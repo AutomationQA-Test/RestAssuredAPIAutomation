@@ -1,0 +1,951 @@
+*********** Started TC001 Get All Employees ***********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking the Cookies ***********
+cookies : null
+*********** Checking response body ***********
+Response Body:: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking Response Time ***********
+Response Time :: 2241
+The response time is greater than 1 :2241
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC001 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"bqvtA","job":"sOj0s","id":"960","createdAt":"2021-09-29T13:59:05.903Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 201
+*********** Checking status line ***********
+Status line:: HTTP/1.1 201 Created
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"morpheus","job":"zion resident","updatedAt":"2021-09-29T13:59:10.715Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 204
+*********** Checking status line ***********
+Status line:: HTTP/1.1 204 No Content
+************** TC002 is completed  *******************
+*********** Started TC001 Get All Employees ***********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking the Cookies ***********
+cookies : null
+*********** Checking response body ***********
+Response Body:: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking Response Time ***********
+Response Time :: 2596
+The response time is greater than 1 :2596
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC001 is completed  *******************
+********** Starting the Get Single User **********
+*********** Started TC001 Get All Employees ***********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking the Cookies ***********
+cookies : null
+*********** Checking response body ***********
+Response Body:: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking Response Time ***********
+Response Time :: 2740
+The response time is greater than 1 :2740
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC001 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"lzwf4","job":"IIC5B","id":"305","createdAt":"2021-09-29T14:00:37.405Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 201
+*********** Checking status line ***********
+Status line:: HTTP/1.1 201 Created
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"morpheus","job":"zion resident","updatedAt":"2021-09-29T14:00:42.099Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Started TC001 Get All Employees ***********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking the Cookies ***********
+cookies : null
+*********** Checking response body ***********
+Response Body:: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking Response Time ***********
+Response Time :: 2465
+The response time is greater than 1 :2465
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC001 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"nX1T8","job":"jRDER","id":"899","createdAt":"2021-09-29T14:01:09.265Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 201
+*********** Checking status line ***********
+Status line:: HTTP/1.1 201 Created
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"morpheus","job":"zion resident","updatedAt":"2021-09-29T14:01:13.965Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 204
+*********** Checking status line ***********
+Status line:: HTTP/1.1 204 No Content
+************** TC002 is completed  *******************
+*********** Started TC001 Get All Employees ***********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking the Cookies ***********
+cookies : null
+*********** Checking response body ***********
+Response Body:: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking Response Time ***********
+Response Time :: 1404
+The response time is greater than 1 :1404
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC001 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"ELWct","job":"LCAgG","id":"760","createdAt":"2021-09-30T05:17:38.350Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 201
+*********** Checking status line ***********
+Status line:: HTTP/1.1 201 Created
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"morpheus","job":"zion resident","updatedAt":"2021-09-30T05:17:42.225Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 204
+*********** Checking status line ***********
+Status line:: HTTP/1.1 204 No Content
+************** TC002 is completed  *******************
+*********** Started TC001 Get All Employees ***********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking the Cookies ***********
+cookies : null
+*********** Checking response body ***********
+Response Body:: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking Response Time ***********
+Response Time :: 1386
+The response time is greater than 1 :1386
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC001 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"Yz4WF","job":"8etMo","id":"935","createdAt":"2021-09-30T05:19:34.884Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 201
+*********** Checking status line ***********
+Status line:: HTTP/1.1 201 Created
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"morpheus","job":"zion resident","updatedAt":"2021-09-30T05:19:38.792Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 204
+*********** Checking status line ***********
+Status line:: HTTP/1.1 204 No Content
+************** TC002 is completed  *******************
+*********** Started TC001 Get All Employees ***********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking the Cookies ***********
+cookies : null
+*********** Checking response body ***********
+Response Body:: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking Response Time ***********
+Response Time :: 1264
+The response time is greater than 1 :1264
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC001 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"DMCMH","job":"c2co8","id":"405","createdAt":"2021-09-30T05:23:06.329Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 201
+*********** Checking status line ***********
+Status line:: HTTP/1.1 201 Created
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"morpheus","job":"zion resident","updatedAt":"2021-09-30T05:23:10.229Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 204
+*********** Checking status line ***********
+Status line:: HTTP/1.1 204 No Content
+************** TC002 is completed  *******************
+*********** Started TC001 Get All Employees ***********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking the Cookies ***********
+cookies : null
+*********** Checking response body ***********
+Response Body:: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking Response Time ***********
+Response Time :: 1329
+The response time is greater than 1 :1329
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC001 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"Ypb5Z","job":"GLjEA","id":"705","createdAt":"2021-09-30T06:29:29.596Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 201
+*********** Checking status line ***********
+Status line:: HTTP/1.1 201 Created
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"morpheus","job":"zion resident","updatedAt":"2021-09-30T06:29:33.357Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 204
+*********** Checking status line ***********
+Status line:: HTTP/1.1 204 No Content
+************** TC002 is completed  *******************
+*********** Started TC001 Get All Employees ***********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking the Cookies ***********
+cookies : null
+*********** Checking response body ***********
+Response Body:: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking Response Time ***********
+Response Time :: 1225
+The response time is greater than 1 :1225
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC001 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"YlOXh","job":"Z0IXZ","id":"203","createdAt":"2021-09-30T06:33:21.118Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 201
+*********** Checking status line ***********
+Status line:: HTTP/1.1 201 Created
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"morpheus","job":"zion resident","updatedAt":"2021-09-30T06:33:24.940Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 204
+*********** Checking status line ***********
+Status line:: HTTP/1.1 204 No Content
+************** TC002 is completed  *******************
+*********** Started TC001 Get All Employees ***********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking the Cookies ***********
+cookies : null
+*********** Checking response body ***********
+Response Body:: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking Response Time ***********
+Response Time :: 1408
+The response time is greater than 1 :1408
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC001 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"gRlY2","job":"yrwyE","id":"837","createdAt":"2021-09-30T06:34:51.872Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 201
+*********** Checking status line ***********
+Status line:: HTTP/1.1 201 Created
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"morpheus","job":"zion resident","updatedAt":"2021-09-30T06:34:55.702Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 204
+*********** Checking status line ***********
+Status line:: HTTP/1.1 204 No Content
+************** TC002 is completed  *******************
+*********** Started TC001 Get All Employees ***********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking the Cookies ***********
+cookies : null
+*********** Checking response body ***********
+Response Body:: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking Response Time ***********
+Response Time :: 1429
+The response time is greater than 1 :1429
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC001 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"wuryW","job":"V81I2","id":"712","createdAt":"2021-09-30T07:13:22.356Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 201
+*********** Checking status line ***********
+Status line:: HTTP/1.1 201 Created
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"morpheus","job":"zion resident","updatedAt":"2021-09-30T07:13:26.026Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 204
+*********** Checking status line ***********
+Status line:: HTTP/1.1 204 No Content
+************** TC002 is completed  *******************
+*********** Started TC001 Get All Employees ***********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking the Cookies ***********
+cookies : null
+*********** Checking response body ***********
+Response Body:: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking Response Time ***********
+Response Time :: 1004
+The response time is greater than 1 :1004
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC001 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"7I5hY","job":"Fq57Q","id":"562","createdAt":"2021-09-30T07:14:46.841Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 201
+*********** Checking status line ***********
+Status line:: HTTP/1.1 201 Created
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"morpheus","job":"zion resident","updatedAt":"2021-09-30T07:14:50.462Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 204
+*********** Checking status line ***********
+Status line:: HTTP/1.1 204 No Content
+************** TC002 is completed  *******************
+*********** Started TC001 Get All Employees ***********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking the Cookies ***********
+cookies : null
+*********** Checking response body ***********
+Response Body:: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking Response Time ***********
+Response Time :: 1205
+The response time is greater than 1 :1205
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC001 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"CVCSH","job":"mZ4uB","id":"142","createdAt":"2021-09-30T07:16:16.405Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 201
+*********** Checking status line ***********
+Status line:: HTTP/1.1 201 Created
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"morpheus","job":"zion resident","updatedAt":"2021-09-30T07:16:20.180Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 204
+*********** Checking status line ***********
+Status line:: HTTP/1.1 204 No Content
+************** TC002 is completed  *******************
+*********** Started TC001 Get All Employees ***********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking the Cookies ***********
+cookies : null
+*********** Checking response body ***********
+Response Body:: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking Response Time ***********
+Response Time :: 1046
+The response time is greater than 1 :1046
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC001 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"7YSVR","job":"Cy2yk","id":"471","createdAt":"2021-09-30T07:16:44.343Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 201
+*********** Checking status line ***********
+Status line:: HTTP/1.1 201 Created
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"morpheus","job":"zion resident","updatedAt":"2021-09-30T07:16:47.995Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 204
+*********** Checking status line ***********
+Status line:: HTTP/1.1 204 No Content
+************** TC002 is completed  *******************
+*********** Started TC001 Get All Employees ***********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking the Cookies ***********
+cookies : null
+*********** Checking response body ***********
+Response Body:: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking Response Time ***********
+Response Time :: 1510
+The response time is greater than 1 :1510
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC001 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"nv0qs","job":"HM6LQ","id":"823","createdAt":"2021-09-30T07:59:26.455Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 201
+*********** Checking status line ***********
+Status line:: HTTP/1.1 201 Created
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the content coding ***********
+Content Encoding : gzip
+*********** Checking the content type ***********
+contentType : application/json; charset=utf-8
+*********** Checking response body ***********
+Response Body:: {"name":"morpheus","job":"zion resident","updatedAt":"2021-09-30T07:59:30.207Z"}
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 200
+*********** Checking status line ***********
+Status line:: HTTP/1.1 200 OK
+************** TC002 is completed  *******************
+********** Starting the Get Single User **********
+*********** Checking the Server Type ***********
+server type : cloudflare
+*********** Checking status code ***********
+Status code:: 204
+*********** Checking status line ***********
+Status line:: HTTP/1.1 204 No Content
+************** TC002 is completed  *******************

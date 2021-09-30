@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Rest_Assured_API_testing]">
+  <listeners>
+    <listener class-name="com.utility.Listeners"/>
+  </listeners>
+  <test name="Test">
+    <classes>
+      <class name="com.testcases.TC001_Get_All_Users"/>
+      <class name="com.testcases.TC002_Get_Single_User"/>
+      <class name="com.testcases.TC003_POST_Create_New_User"/>
+      <class name="com.testcases.TC004_Update_User"/>
+      <class name="com.testcases.TC005_Delete_Created_User"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Failed suite [Rest_Assured_API_testing] -->
